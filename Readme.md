@@ -70,7 +70,6 @@ Task Management API is built using Spring Boot that provides CRUD (Create, Read,
                "dueDate": "2024-02-10T12:00:00Z",
                "completionDate": null
                },
-               // Additional tasks...
             ],
             "totalElements": 25,
             "size": 10,
